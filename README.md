@@ -1,4 +1,4 @@
-# EDA_Habermans_Survival_Dataset
+# Exploratory Data Analysis on Haberman's Breast Cancer Survival Data set
 Exploratory Data Analysis and Visualization on Habermans Breast Cancer Survival Dataset
 
 ### Data set description 
